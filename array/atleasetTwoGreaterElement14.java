@@ -1,4 +1,6 @@
   {
+    
+    Given an array of N distinct elements, the task is to find all elements in array except two greatest elements in sorted order.
         // Your code goes here
         int first=Integer.MIN_VALUE;;
         int second=Integer.MAX_VALUE;
